@@ -3,7 +3,7 @@
 #include <avr/power.h> // Required for 16 MHz Adafruit Trinket
 #endif
 
-#define PIN 2 // PIN LED
+#define PIN 0 // PIN LED
 #define PIN_TRIG 4 // PIN
 #define PIN_ECHO 5 // PIN
 #define NUMPIXELS 15 // NeoPixel led count
