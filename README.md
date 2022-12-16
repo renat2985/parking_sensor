@@ -1,6 +1,8 @@
 # parking_sensor
 Parking sensor. Mounted on the wall of the garage and shows how close the car is to the wall.
 
+![image](https://github.com/renat2985/parking_sensor/blob/main/IMG_5782.jpg)
+
 
 Need:
 - Led strip: WS2812B
