@@ -1,13 +1,13 @@
 # parking_sensor
 Parking sensor. Mounted on the wall of the garage and shows how close the car is to the wall.
 
-![image](https://github.com/renat2985/parking_sensor/blob/main/IMG_5782.jpg)
+![image](https://github.com/renat2985/parking_sensor/blob/main/img/IMG_5782.jpg)
+
+![image](https://github.com/renat2985/parking_sensor/blob/main/img/shematic.png)
+
+![image](https://github.com/renat2985/parking_sensor/blob/main/img/stl1.png) ![image](https://github.com/renat2985/parking_sensor/blob/main/img/stl2.png)
 
 
-
-![image](https://github.com/renat2985/parking_sensor/blob/main/shematic.png)
-
-Need:
 - Led strip: WS2812B
 - Ultrasonic Sensor HC-SR04
 - NodeMCU 8266
