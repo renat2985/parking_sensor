@@ -5,7 +5,8 @@ Parking sensor. Mounted on the wall of the garage and shows how close the car is
 
 ![image](https://github.com/renat2985/parking_sensor/blob/main/img/shematic.png)
 
-![image](https://github.com/renat2985/parking_sensor/blob/main/img/stl1.png) ![image](https://github.com/renat2985/parking_sensor/blob/main/img/stl2.png)
+<img src="https://github.com/renat2985/parking_sensor/blob/main/img/stl1.png" width=45% height=45%>
+<img src="https://github.com/renat2985/parking_sensor/blob/main/img/stl2.png" width=45% height=45%>
 
 
 - Led strip: WS2812B
