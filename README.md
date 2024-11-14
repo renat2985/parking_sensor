@@ -15,8 +15,8 @@ Parking sensor. Mounted on the wall of the garage and shows how close the car is
 ![image](https://github.com/renat2985/parking_sensor/blob/main/img/shematic.png)
 
 <p align="center">
-<img src="https://github.com/renat2985/parking_sensor/blob/main/img/stl1.png" width=45% height=45%>
-<img src="https://github.com/renat2985/parking_sensor/blob/main/img/stl2.png" width=45% height=45%>
+<img src="https://github.com/renat2985/parking_sensor/blob/main/img/stl1.png" height="300px">
+<img src="https://github.com/renat2985/parking_sensor/blob/main/img/stl2.png" height="300px">
 </p>
 
 # Upload instruction
@@ -40,6 +40,6 @@ Download Release: [Win32](https://github.com/nodemcu/nodemcu-flasher/blob/master
 
 If you like this project, you can buy me a cup of coffee :coffee:
 
-<img src="https://github.com/renat2985/toncoin_payment/blob/main/doc/donate.png" width="700px">
+<img src="https://github.com/renat2985/renat2985/raw/main/donate/donate.png" width="100%">
 
 - PayPal [https://www.paypal.me/RKevrels](https://www.paypal.me/RKevrels/5)
