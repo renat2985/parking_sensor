@@ -14,10 +14,11 @@ Parking sensor. Mounted on the wall of the garage and shows how close the car is
 
 ![image](https://github.com/renat2985/parking_sensor/blob/main/img/shematic.png)
 
-<p align="center">
-<img src="https://github.com/renat2985/parking_sensor/blob/main/img/stl1.png" height="300px">
-<img src="https://github.com/renat2985/parking_sensor/blob/main/img/stl2.png" height="300px">
-</p>
+
+# STL file (STL folder)
+
+<img src="https://github.com/renat2985/parking_sensor/blob/main/img/stl1.png" height="200px"><img src="https://github.com/renat2985/parking_sensor/blob/main/img/stl2.png" height="200px">
+
 
 # Upload instruction
 ## Specification .bin files
