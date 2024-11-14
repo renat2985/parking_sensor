@@ -1,4 +1,5 @@
-# parking_sensor
+# Parking sensor
+
 Parking sensor. Mounted on the wall of the garage and shows how close the car is to the wall.
 
 - Led strip: WS2812B
