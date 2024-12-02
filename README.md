@@ -31,6 +31,8 @@ Parking sensor. Mounted on the wall of the garage and shows how close the car is
     Flash Frequency: 40Mhz
     Upload Speed: 921600
 
+    Address: 0x00000
+
 ### You can download the bin file here: [/build/esp8266.esp8266.generic/parking_sensor.ino.bin](https://github.com/renat2985/parking_sensor/raw/main/build/esp8266.esp8266.generic/parking_sensor.ino.bin)
 
 ### NodeMCU Flasher
